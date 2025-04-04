@@ -53,3 +53,19 @@ This project demonstrates how to use Azure Synapse Analytics for ingesting data 
 ## 🎯 Goal
 To learn and implement an end-to-end data analytics workflow using Azure Synapse, combining data lake, data warehouse, and analytics tools in one unified platform.
 
+## ScreenShots
+![lab12](https://github.com/user-attachments/assets/66a1cdb0-2c92-4ce2-8dec-efeb8befa586)
+![lab13](https://github.com/user-attachments/assets/ee655934-4271-4f2c-8515-8e3606ab926f)
+![lab14](https://github.com/user-attachments/assets/6e549d2d-08c6-42ac-a120-48fdcbc3764b)
+![lab15](https://github.com/user-attachments/assets/3e9919d5-3ac7-4296-8f7c-c20603178f98)
+![lab16](https://github.com/user-attachments/assets/c3fc341e-4fd7-4db4-8cef-a76724350925)
+![lab17wspace](https://github.com/user-attachments/assets/7d43e64e-d827-49f9-86b4-189ec509623d)
+![lab18manage](https://github.com/user-attachments/assets/b7552d7d-1685-4bbc-9ff4-ea12f21160f8)
+![lab19copydata](https://github.com/user-attachments/assets/0b603bae-f300-4026-a718-c5e400b67b80)
+![lab120data](https://github.com/user-attachments/assets/9a176ff9-3266-48d5-9b94-f36d08e7da38)
+![lab120data2](https://github.com/user-attachments/assets/d22f701b-9b4a-4115-a117-c6e49816755f)
+![lab120data3](https://github.com/user-attachments/assets/f5d3206a-0721-41b4-a2da-8c2bd1589c83)
+
+
+
+
